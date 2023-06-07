@@ -6,5 +6,9 @@
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=suzumashi&theme=gruvbox)]
 
+[![](https://activity-graph.herokuapp.com/graph?username=suzumashi&theme=github)]
+[![](https://github-readme-streak-stats.herokuapp.com/?user=suzumashi&theme=dark)]
+
+
 
 </p>
